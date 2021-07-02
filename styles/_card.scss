@@ -1,0 +1,13 @@
+.card {
+    background-color: $card-background;
+    display: flex;
+    align-items: stretch;
+    border-radius: 0.5rem;
+}
+.card-text-part {
+    display: flex;
+    flex-direction: column;
+}
+.img-mobile {
+    display: none;
+}
