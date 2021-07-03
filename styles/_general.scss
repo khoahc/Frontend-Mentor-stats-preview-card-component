@@ -5,13 +5,14 @@
     box-sizing: border-box;
 }
 
-body {
-    font-size: 0.625rem;
+html {
+    font-size: 90%;
     font-family: "Inter", sans-serif;
     background-color: $main-background;
+    // height: 100vh;
 }
 .container {
-    border: 1px solid white;
+    //    border: 1px solid red;
     height: 100vh;
     display: flex;
     align-items: center;

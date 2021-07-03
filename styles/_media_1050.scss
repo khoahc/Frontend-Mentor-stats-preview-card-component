@@ -1,0 +1,22 @@
+@media screen and (max-width: 1050px) {
+    .card {
+        margin: 10%;
+    }
+    .card-text-part {
+        h1 {
+            font-size: 1.85rem;
+        }
+        .stat-num {
+            font-size: 1.35rem;
+        }
+        .stat-title {
+            font-size: 0.75rem;
+        }
+    }
+    img {
+        width: 100%;
+    }
+    .card-img-part {
+        width: 140%;
+    }
+}
